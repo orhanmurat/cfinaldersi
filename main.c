@@ -730,4 +730,4 @@
 //    else
 //        printf("%d is a prime number.", n);
 //}
-//branche kayıt ettik.
+//branche kayıt ettik
