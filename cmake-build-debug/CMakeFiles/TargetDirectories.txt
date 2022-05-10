@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/introduction to computers and programming languages/Asil_ders/excersize/tum_eg/cmake-build-debug/CMakeFiles/tum_eg.dir
+C:/Users/Administrator/Desktop/introduction to computers and programming languages/Asil_ders/excersize/tum_eg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/introduction to computers and programming languages/Asil_ders/excersize/tum_eg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
